@@ -8,5 +8,6 @@ Using aggregate, compute the mean of each variable and group them
 Write into a data file
 
 run_analysis.R - to get tidy data
+
 codebook.md - Description of variables data and transformations made in the code
 

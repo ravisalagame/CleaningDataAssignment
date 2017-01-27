@@ -1,4 +1,4 @@
-# CleaningDataAssignment# 
+# CleaningDataAssignment
 Contains run_Analysis.R project to get tidy data
 How it works
 First add subject and activity data sets to training and test sets
